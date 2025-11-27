@@ -1,5 +1,8 @@
 # Forzar todos los archivos markdown como Text
 *.md linguist-language=Text
 
-# Asegurar detección
+# El archivo txt ya se detecta automáticamente como Text
+*.txt linguist-language=Text
+
+# Hacer que GitHub re-analice
 * linguist-detectable=true
