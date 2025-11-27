@@ -153,14 +153,14 @@ Escuela Politécnica Nacional
 
 <picture>
   <source
-    srcset="https://github-contributor-stats.vercel.app/api?username=ChristianArroyoAuz&limit=5&theme=dark&combine_all_yearly_contributions=true"
+    srcset="https://github-contributor-stats.vercel.app/api?username=ChristianArroyoAuz&limit=10&theme=dark&combine_all_yearly_contributions=true&show_icons=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-contributor-stats.vercel.app/api?username=ChristianArroyoAuz&limit=5&theme=default&combine_all_yearly_contributions=true"
+    srcset="https://github-contributor-stats.vercel.app/api?username=ChristianArroyoAuz&limit=10&theme=default&combine_all_yearly_contributions=true&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-contributor-stats.vercel.app/api?username=ChristianArroyoAuz&limit=5&theme=default&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ChristianArroyoAuz&limit=10&theme=default&combine_all_yearly_contributions=true&show_icons=true" />
 </picture>
 
 </div>
