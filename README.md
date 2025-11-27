@@ -12,7 +12,6 @@ Master of Science in Computer Science and Electronics Engineer with over 5 years
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-xavier-arroyo-auz-48a82a11a/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.xavier.arroyo.auz@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristianArroyoAuz)
 
 </div>
 
@@ -46,8 +45,8 @@ Master of Science in Computer Science and Electronics Engineer with over 5 years
 
 ### GitHub Activity Metrics
 
-![](https://github-readme-stats.vercel.app/api?username=ChristianArroyoAuz&theme=default&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=ChristianArroyoAuz&theme=default&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=ChristianArroyoAuz&theme=default&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ChristianArroyoAuz&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianArroyoAuz&langs_count=20&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Development Achievements
@@ -138,3 +137,4 @@ Escuela Politécnica Nacional
 [![](https://visitcount.itsvg.in/api?id=ChristianArroyoAuz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
