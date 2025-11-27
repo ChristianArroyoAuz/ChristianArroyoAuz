@@ -15,22 +15,9 @@ M.Sc. in Computer Science and Electronics Engineer with over 5 years of combined
 ---
 
 ## 📊 GitHub Stats:
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ChristianArroyoAuz&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ChristianArroyoAuz&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristianArroyoAuz&show_icons=true" />
-</picture>
-
-
 ![](https://github-readme-stats.vercel.app/api?username=ChristianArroyoAuz&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ChristianArroyoAuz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianArroyoAuz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianArroyoAuz&langs_count=20&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ChristianArroyoAuz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -113,6 +100,7 @@ M.Sc. in Computer Science and Electronics Engineer with over 5 years of combined
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
