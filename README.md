@@ -151,7 +151,17 @@ Escuela Politécnica Nacional
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=ChristianArroyoAuz&limit=5&theme=default&combine_all_yearly_contributions=true)
+<picture>
+  <source
+    srcset="https://github-contributor-stats.vercel.app/api?username=ChristianArroyoAuz&limit=5&theme=dark&combine_all_yearly_contributions=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-contributor-stats.vercel.app/api?username=ChristianArroyoAuz&limit=5&theme=default&combine_all_yearly_contributions=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ChristianArroyoAuz&limit=5&theme=default&combine_all_yearly_contributions=true" />
+</picture>
 
 </div>
 
@@ -166,8 +176,4 @@ Escuela Politécnica Nacional
 **📞 Contact:** +593 998568782  
 **🌐 Languages:** Spanish (Native), English (Advanced)
 
-[![](https://visitcount.itsvg.in/api?id=ChristianArroyoAuz&icon=0&color=0)](https://visitcount.itsvg.in)
-
 </div>
-
-
