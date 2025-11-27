@@ -1,3 +1,5 @@
-# Forzar Markdown como Text
+# Forzar todos los archivos markdown como Text
 *.md linguist-language=Text
-README.md linguist-language=Text
+
+# Asegurar detección
+* linguist-detectable=true
