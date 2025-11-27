@@ -45,9 +45,41 @@ Master of Science in Computer Science and Electronics Engineer with over 5 years
 
 ### GitHub Activity Metrics
 
-![](https://github-readme-stats.vercel.app/api?username=ChristianArroyoAuz&theme=default&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ChristianArroyoAuz&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianArroyoAuz&langs_count=20&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ChristianArroyoAuz&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ChristianArroyoAuz&theme=default&hide_border=false&show_icons=true&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristianArroyoAuz&theme=default&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" />
+</picture>
+<br/>
+<picture>
+  <source
+    srcset="https://nirzak-streak-stats.vercel.app/?user=ChristianArroyoAuz&theme=dark&hide_border=false"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://nirzak-streak-stats.vercel.app/?user=ChristianArroyoAuz&theme=default&hide_border=false"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ChristianArroyoAuz&theme=default&hide_border=false" />
+</picture>
+<br/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianArroyoAuz&langs_count=20&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianArroyoAuz&langs_count=20&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianArroyoAuz&langs_count=20&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</picture>
 
 ### Development Achievements
 ![](https://github-profile-trophy.vercel.app/?username=ChristianArroyoAuz&theme=flat&no-frame=false&no-bg=true&margin-w=4)
@@ -137,4 +169,5 @@ Escuela Politécnica Nacional
 [![](https://visitcount.itsvg.in/api?id=ChristianArroyoAuz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
 
