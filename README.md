@@ -21,7 +21,7 @@ M.Sc. in Computer Science and Electronics Engineer with over 5 years of combined
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ChristianArroyoAuza&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=ChristianArroyoAuz&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ChristianArroyoAuz&show_icons=true" />
@@ -113,6 +113,7 @@ M.Sc. in Computer Science and Electronics Engineer with over 5 years of combined
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
